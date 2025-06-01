@@ -2,7 +2,7 @@
   "name": "assignment1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Abdalrahman107.github.io/ReactTest",
+  "homepage": "https://abdalrahman107.github.io/ReactTest",
   "type": "module",
   "scripts": {
     "dev": "vite",
