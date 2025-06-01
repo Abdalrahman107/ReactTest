@@ -9,7 +9,7 @@ import Startframework from './components/Startframework/Startframework'
 
 
 let x = createBrowserRouter([
-  {path:"", element: <Layout/>, children:[
+  {path:"/", element: <Layout/>, children:[
     {index:true , element:<Startframework/>},
     {path:'about' , element:<About/>},
     {path:"portfolio", element:<Portfolio/>},
